@@ -10,4 +10,5 @@
 - https://labdmitriy.github.io/blog/distributions-vs-packages/#additional-experiments
 - https://pythonpackaging.info/07-Package-Release.html
 
-
+# misc
+- https://github.com/pallets/jinja/tree/3.1.2  jinja source code
