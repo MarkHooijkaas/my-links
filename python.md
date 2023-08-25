@@ -20,3 +20,4 @@
 - https://hitchdev.com/strictyaml/features-removed/
 - https://hitchdev.com/strictyaml/why/flow-style-removed/
 - https://hitchdev.com/strictyaml/why/implicit-typing-removed/ The Norway problem
+- https://pep8.org/#indentation PEP8
