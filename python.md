@@ -16,5 +16,3 @@
 # misc
 - https://github.com/pallets/jinja/tree/3.1.2  jinja source code
 
-# bash
-- https://sharats.me/posts/shell-script-best-practices/
