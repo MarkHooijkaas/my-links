@@ -12,7 +12,11 @@
 - https://stackoverflow.com/questions/54597212/using-hyphen-dash-in-python-repository-name-and-package-name/54599368#54599368
 - https://labdmitriy.github.io/blog/distributions-vs-packages/#additional-experiments
 - https://pythonpackaging.info/07-Package-Release.html
+- https://carpentries-incubator.github.io/python_packaging/04-history-of-packaging.html
 
 # misc
 - https://github.com/pallets/jinja/tree/3.1.2  jinja source code
-
+- https://github.com/crdoconnor/strictyaml/tree/master
+- https://hitchdev.com/strictyaml/features-removed/
+- https://hitchdev.com/strictyaml/why/flow-style-removed/
+- https://hitchdev.com/strictyaml/why/implicit-typing-removed/ The Norway problem
